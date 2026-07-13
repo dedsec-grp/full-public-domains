@@ -3,3 +3,4 @@
 - google.com
 - discord.com
 - vymail.xyz
+- x.com (twitter.com)
