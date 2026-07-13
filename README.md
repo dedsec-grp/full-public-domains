@@ -5,3 +5,4 @@
 - vymail.xyz
 - x.com (twitter.com)
 - meta.com
+- claude.ai
