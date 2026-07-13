@@ -1,0 +1,15 @@
+donate.cloudsitedns.com
+discord.com
+app.discord.com
+canary.discord.com
+docs.discord.com
+i18n.discord.com
+prod-wf1.discord.com
+snowsgiving-tale-2022-fr.discord.com
+snowsgiving-tale-2022-pt-br.discord.com
+admin.tools.discordwebhooks.com
+hej4.xn--mrtberg-90a.com
+discord.cubexland.eu
+discord.sadoj-rp.fr
+discord.fishinglegends.org
+chat.kryptokrona.org
